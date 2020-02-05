@@ -1,0 +1,10 @@
+.bb1 {
+  display: flex;
+  justify-content: center;
+  width: 80px;
+  height: 30px;
+  background-color: #521751;
+  color: white;
+  margin-left: 500px;
+  margin-top: 10px;
+}
